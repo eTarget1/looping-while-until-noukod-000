@@ -3,4 +3,5 @@ def using_while
 	 while levitation_force < 10
 	 puts "The current number is less than 10."
 	#your code here
+	levitation_force += 1
 end
